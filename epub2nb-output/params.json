@@ -1,0 +1,576 @@
+{
+  "params": {
+    "metadata": {
+      "title": "Karneval",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Lorenzo Medicejský",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-05-26T00:00:00.000Z"
+    },
+    "elements": {
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
+      "subtitle": "",
+      "h2": "MLP-uroven3-nadpis, MLP_uroven3_nadpis",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brAfter": "",
+      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
+      "figure": "MLP_obrazky\nMLP-obrazky",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "karneval_001.md",
+            "xhtml": "karneval_001.xhtml",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "karneval_002.md",
+            "xhtml": "karneval_002.xhtml",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "karneval_003.md",
+            "xhtml": "karneval_003.xhtml",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "karneval_004.md",
+            "xhtml": "karneval_004.xhtml",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "karneval_005.md",
+            "xhtml": "karneval_005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "karneval_006.md",
+            "xhtml": "karneval_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "karneval_007.md",
+            "xhtml": "karneval_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "karneval_008.md",
+            "xhtml": "karneval_008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "karneval_009.md",
+            "xhtml": "karneval_009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "karneval_010.md",
+            "xhtml": "karneval_010.xhtml",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "karneval_011.md",
+            "xhtml": "karneval_011.xhtml",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "karneval_012.md",
+            "xhtml": "karneval_012.xhtml",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "karneval_013.md",
+            "xhtml": "karneval_013.xhtml",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "karneval_014.md",
+            "xhtml": "karneval_014.xhtml",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "karneval_015.md",
+            "xhtml": "karneval_015.xhtml",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "karneval_016.md",
+            "xhtml": "karneval_016.xhtml",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "karneval_017.md",
+            "xhtml": "karneval_017.xhtml",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "karneval_018.md",
+            "xhtml": "karneval_018.xhtml",
+            "id": 17,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "karneval_019.md",
+            "xhtml": "karneval_019.xhtml",
+            "id": 18,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "karneval_020.md",
+            "xhtml": "karneval_020.xhtml",
+            "id": 19,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "karneval_021.md",
+            "xhtml": "karneval_021.xhtml",
+            "id": 20,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "karneval_022.md",
+            "xhtml": "karneval_022.xhtml",
+            "id": 21,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "karneval_023.md",
+            "xhtml": "karneval_023.xhtml",
+            "id": 22,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "karneval_024.md",
+            "xhtml": "karneval_024.xhtml",
+            "id": 23,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "karneval_025.md",
+            "xhtml": "karneval_025.xhtml",
+            "id": 24,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "karneval_026.md",
+            "xhtml": "karneval_026.xhtml",
+            "id": 25,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "karneval_027.md",
+            "xhtml": "karneval_027.xhtml",
+            "id": 26,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          }
+        ]
+      }
+    ]
+  },
+  "epub": {
+    "metadata": {
+      "title": "Karneval",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Lorenzo Medicejský",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-05-26T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "karneval_001.md",
+        "xhtml": "karneval_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "karneval_002.md",
+        "xhtml": "karneval_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "karneval_003.md",
+        "xhtml": "karneval_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "karneval_004.md",
+        "xhtml": "karneval_004.xhtml"
+      },
+      {
+        "titleSuggest": "TANEČNÍ PÍSNĚ",
+        "subtitleSuggest": "",
+        "filename": "karneval_005.md",
+        "xhtml": "karneval_005.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "karneval_006.md",
+        "xhtml": "karneval_006.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "karneval_007.md",
+        "xhtml": "karneval_007.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "karneval_008.md",
+        "xhtml": "karneval_008.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "karneval_009.md",
+        "xhtml": "karneval_009.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "karneval_010.md",
+        "xhtml": "karneval_010.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "karneval_011.md",
+        "xhtml": "karneval_011.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "karneval_012.md",
+        "xhtml": "karneval_012.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "karneval_013.md",
+        "xhtml": "karneval_013.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "karneval_014.md",
+        "xhtml": "karneval_014.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "karneval_015.md",
+        "xhtml": "karneval_015.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "karneval_016.md",
+        "xhtml": "karneval_016.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "karneval_017.md",
+        "xhtml": "karneval_017.xhtml"
+      },
+      {
+        "titleSuggest": "KARNEVALOVÉ ZPĚVY",
+        "subtitleSuggest": "",
+        "filename": "karneval_018.md",
+        "xhtml": "karneval_018.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "karneval_019.md",
+        "xhtml": "karneval_019.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "karneval_020.md",
+        "xhtml": "karneval_020.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "karneval_021.md",
+        "xhtml": "karneval_021.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "karneval_022.md",
+        "xhtml": "karneval_022.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "karneval_023.md",
+        "xhtml": "karneval_023.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "karneval_024.md",
+        "xhtml": "karneval_024.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "karneval_025.md",
+        "xhtml": "karneval_025.xhtml"
+      },
+      {
+        "titleSuggest": "VELKOLEPÝ VAVŘINEC aneb LORENZO IL MAGNIFICO",
+        "subtitleSuggest": "",
+        "filename": "karneval_026.md",
+        "xhtml": "karneval_026.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "karneval_027.md",
+        "xhtml": "karneval_027.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/idGeneratedStyles.css"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka_karneval.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      }
+    ],
+    "classes": [
+      "CharOverride-1",
+      "Hyperlink",
+      "MLP_citacni_str_rozdeleni",
+      "MLP_dopis",
+      "MLP_dopis_-I-",
+      "MLP_dopis_bez1radku",
+      "MLP_dopis_podpis_-I-",
+      "MLP_licence_hypertext",
+      "MLP_licence_obrazek",
+      "MLP_licence_paragraf",
+      "MLP_licence_text",
+      "MLP_obrazky",
+      "MLP_text",
+      "MLP_text_bez1radku",
+      "MLP_text_bez1radku_-0-12-",
+      "MLP_text_bez1radku_-12-0-",
+      "MLP_tiraz_autor_a_nazev",
+      "MLP_tiraz_podnazev",
+      "MLP_titulka_autor",
+      "MLP_titulka_nazev",
+      "MLP_titulka_podnazev",
+      "MLP_titulka_prekladatel",
+      "MLP_uroven1_cast",
+      "MLP_uroven1_zvlastni_pripady",
+      "MLP_uroven2_basne",
+      "MLP_verse_-0-12-",
+      "MLP_verse_-I-_-12-12-",
+      "PRVNI_VERS_DO_OBSAHU",
+      "ParaOverride-1",
+      "ParaOverride-2",
+      "_idGenCharOverride-1",
+      "_idGenObjectAttribute-1",
+      "_idGenObjectAttribute-2",
+      "_idGenObjectLayout-1",
+      "_idGenObjectStyleOverride-1"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "medici-karneval"
+    },
+    "generatedAt": 1652420777472
+  }
+}
