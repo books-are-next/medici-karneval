@@ -1,39 +1,37 @@
 ---
-title: ''
+title: Píseň poustevníků
 contentType: prose
 ---
 
-Píseň poustevníků
+_Poslechněte píseň poustevníků:  
+Jdem k vám pro dobro všech smrtelníků._
 
-> Poslechněte píseň poustevníků:  
-> Jdem k vám pro dobro všech smrtelníků.
+_V světě se nám líbívaly krásky,  
+peněz jako želez za opasky —  
+pak nás Amor při trápeních z lásky  
+vždycky znectil, zepsul v okamžiku._
 
-> V světě se nám líbívaly krásky,  
-> peněz jako želez za opasky —  
-> pak nás Amor při trápeních z lásky  
-> vždycky znectil, zepsul v okamžiku.
+_Vězeli jsme léta v jeho síti,  
+v rukou krásek — samé lehké kvítí!  
+Když nešlo hlad lépe ukojiti,  
+chytli jsme se z nouze těchhle styků._
 
-> Vězeli jsme léta v jeho síti,  
-> v rukou krásek — samé lehké kvítí!  
-> Když nešlo hlad lépe ukojiti,  
-> chytli jsme se z nouze těchhle styků.
+_Nadobro jsme opustili svět:  
+Nechcem Amora a jeho jed.  
+Radši v temném lese žalmy pět,  
+než dělat houf jeho společníků._
 
-> Nadobro jsme opustili svět:  
-> Nechcem Amora a jeho jed.  
-> Radši v temném lese žalmy pět,  
-> než dělat houf jeho společníků.
+_Chcem jíst radši žaludy a trávu  
+na svobodě, než mít hojnou stravu  
+v Amorových službách. Poplet hlavu  
+už až příliš mnoha nešťastníků._
 
-> Chcem jíst radši žaludy a trávu  
-> na svobodě, než mít hojnou stravu  
-> v Amorových službách. Poplet hlavu  
-> už až příliš mnoha nešťastníků.
+_Nehýřete, zavřete své dlaně:  
+Tyranky jsou, lačné jako saně,  
+prázdné jako díra střelné zbraně,  
+nenasytné v každém okamžiku._
 
-> Nehýřete, zavřete své dlaně:  
-> Tyranky jsou, lačné jako saně,  
-> prázdné jako díra střelné zbraně,  
-> nenasytné v každém okamžiku.
-
-> Vemte si ty ostny za znak v štítu:  
-> Osten píchá v říši horkých citů  
-> všecky věčně. Nepohrdej v skrytu,  
-> synu, moudrou radou poustevníků!
+_Vemte si ty ostny za znak v štítu:  
+Osten píchá v říši horkých citů  
+všecky věčně. Nepohrdej v skrytu,  
+synu, moudrou radou poustevníků!_

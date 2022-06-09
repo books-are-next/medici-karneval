@@ -1,69 +1,66 @@
 ---
-title: ''
+title: "Píseň mladých žen a\_starých manželů"
 contentType: prose
 ---
 
-Píseň mladých žen  
-a starých manželů
+> _(Staří)_
 
-(Staří)
+_Nechcete nám říct už hnedky,  
+co vás hnalo na záletky?_
 
-> Nechcete nám říct už hnedky,  
-> co vás hnalo na záletky?
+_Které ženské nestydaté  
+vás tak nectně pobláznily  
+do zábav, že — teď to máte —  
+čest jste v chvíli zahodily?  
+Hodil se vám jiný milý?  
+Spláčete nám nad výsledky!_
 
-> Které ženské nestydaté  
-> vás tak nectně pobláznily  
-> do zábav, že — teď to máte —  
-> čest jste v chvíli zahodily?  
-> Hodil se vám jiný milý?  
-> Spláčete nám nad výsledky!
+> _(Ženy odpovídají)_
 
-(Ženy odpovídají)
+_Hrom vás zab, už odtáhněte,  
+dědci, celí zdětinštělí!  
+Přestaňte nás trápit, jděte!  
+Chceme mít, co bychom chtěly.  
+Nám dají ti mladí, skvělí,  
+víc než šatky nebo tretky._
 
-> Hrom vás zab, už odtáhněte,  
-> dědci, celí zdětinštělí!  
-> Přestaňte nás trápit, jděte!  
-> Chceme mít, co bychom chtěly.  
-> Nám dají ti mladí, skvělí,  
-> víc než šatky nebo tretky.
+> _(Staří)_
 
-(Staří)
+_Že vás huba nepálí!  
+Drželi jsme si vás v zlatě —  
+všecko, co jste žádaly,  
+dostaly jste vrchovatě.  
+Naše zdraví znáte. Dáte  
+nám jen svoje žvasty, pletky?_
 
-> Že vás huba nepálí!  
-> Drželi jsme si vás v zlatě —  
-> všecko, co jste žádaly,  
-> dostaly jste vrchovatě.  
-> Naše zdraví znáte. Dáte  
-> nám jen svoje žvasty, pletky?
+_Milencům se vyhýbejte,  
+vraťte se k nám do domova;  
+Před lidmi nám nedělejte  
+takovouhle hanbu znova!  
+V lásce vás pak budem chovat —  
+všecko k vašim službám hnedky!_
 
-> Milencům se vyhýbejte,  
-> vraťte se k nám do domova;  
-> Před lidmi nám nedělejte  
-> takovouhle hanbu znova!  
-> V lásce vás pak budem chovat —  
-> všecko k vašim službám hnedky!
+> _(Ženy)_
 
-(Ženy)
+_Na to máte krátký dech,  
+abychom se my k vám hnaly,  
+Dřív by na nás narost mech,  
+než byste nás obdělali!  
+Minulost nás dodnes pálí:  
+Umřít dřív než dostat zmetky!_
 
-> Na to máte krátký dech,  
-> abychom se my k vám hnaly,  
-> Dřív by na nás narost mech,  
-> než byste nás obdělali!  
-> Minulost nás dodnes pálí:  
-> Umřít dřív než dostat zmetky!
+_Hleďte uši napínat,  
+holčinečky na vdávání:  
+K sňatku s někým z těchhle dát  
+někdy souhlas? Ani zdání!  
+Utopte se bez váhání,  
+než byste si vzaly dědky!_
 
-> Hleďte uši napínat,  
-> holčinečky na vdávání:  
-> K sňatku s někým z těchhle dát  
-> někdy souhlas? Ani zdání!  
-> Utopte se bez váhání,  
-> než byste si vzaly dědky!
+> _(Staří)_
 
-(Staří)
-
-> O to vám tak nejvíc běží,  
-> proradnému plemeni!  
-> Nechtějí nás, chtějí svěží,  
-> mladé na své svrbení.  
-> My jim máme zkropení  
-> platit vždycky ty tři pětky!
+_O to vám tak nejvíc běží,  
+proradnému plemeni!  
+Nechtějí nás, chtějí svěží,  
+mladé na své svrbení.  
+My jim máme zkropení  
+platit vždycky ty tři pětky!_

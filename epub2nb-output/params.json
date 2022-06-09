@@ -8,21 +8,23 @@
       "modified": "2021-05-26T00:00:00.000Z"
     },
     "elements": {
-      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
+      "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\ne.booknadpis.*\nheading.id.2\nmlpuroven1cast\nmlpuroven2kapitola",
       "subtitle": "",
-      "h2": "MLP-uroven3-nadpis, MLP_uroven3_nadpis",
-      "h3": "",
-      "h4": "",
-      "hr": "",
+      "h2": "MLP.uroven3.nadpis\nMLP.UROVEN3.NADPIS.DRAMA",
+      "h3": "MLP.uroven4.nadpis\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasnebezodstrankovani",
+      "h4": "MLP.uroven5.nadpis",
+      "hr": "MLP.hvezdicky\ne.bookhvezdickystred",
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
-      "brAfter": "",
-      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
-      "figure": "MLP_obrazky\nMLP-obrazky",
-      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat",
-      "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf",
+      "brBefore": ".+12.0\ne.bookodsazeniodstavce.*pred.*",
+      "brAfter": ".+0.12\ne.bookversebezpredsazeni.*za.*",
+      "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
+      "centered": ".*uprostred.*",
+      "figure": "MLP.obrazky.*\nmlpobrazky",
+      "em": ".*kurziva.*\n.*-I-.*\n.*--I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
+      "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
+      "verse": "MLP.verse.*",
       "remove": "",
       "ignore": ""
     },
@@ -438,7 +440,7 @@
         "xhtml": "karneval_016.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Sedm radostí lásky",
         "subtitleSuggest": "",
         "filename": "karneval_017.md",
         "xhtml": "karneval_017.xhtml"
@@ -450,43 +452,43 @@
         "xhtml": "karneval_018.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Bakchická píseň",
         "subtitleSuggest": "",
         "filename": "karneval_019.md",
         "xhtml": "karneval_019.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Píseň o voňavkách",
         "subtitleSuggest": "",
         "filename": "karneval_020.md",
         "xhtml": "karneval_020.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Píseň sedmi planet",
         "subtitleSuggest": "",
         "filename": "karneval_021.md",
         "xhtml": "karneval_021.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Píseň o cikádách",
         "subtitleSuggest": "",
         "filename": "karneval_022.md",
         "xhtml": "karneval_022.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Píseň o pohledech nazpátek",
         "subtitleSuggest": "",
         "filename": "karneval_023.md",
         "xhtml": "karneval_023.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Píseň mladých žen a starých manželů",
         "subtitleSuggest": "",
         "filename": "karneval_024.md",
         "xhtml": "karneval_024.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Píseň poustevníků",
         "subtitleSuggest": "",
         "filename": "karneval_025.md",
         "xhtml": "karneval_025.xhtml"
@@ -571,6 +573,6 @@
       "user": "books-are-next",
       "repo": "medici-karneval"
     },
-    "generatedAt": 1652420777472
+    "generatedAt": 1654774430623
   }
 }
