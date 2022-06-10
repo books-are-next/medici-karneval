@@ -3,11 +3,17 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Paní milá chtivá byla
 
 _mluvit s mladíkem — a ved  
 si tak pěkně, že mu hned  
 ty tři pětky vysolila._
+
+</section>
+
+<section>
 
 _Na truhle jí prvně zkrátka  
 svoje účty zúčtoval,  
@@ -18,6 +24,10 @@ a cos zatím dělal? Nic!
 Vyplať další podíl, sic  
 nesmíš odtud, hochu milá!“_
 
+</section>
+
+<section>
+
 _Lakotná je každá žena;  
 pořád jí to nestačilo.  
 „Nejsem ještě vyplacená  
@@ -26,6 +36,10 @@ než, co z pohledávky zbylo,
 jí dal honem do kasičky.  
 Čiperná jak ryba ničky  
 už ho málem propustila…_
+
+</section>
+
+<section>
 
 _Vzpomněla si nečekaně  
 na úrok, než hoch byl venku.  
@@ -36,6 +50,10 @@ nemáš vindru, jsi tak chabý?“
 povídá. „Teď koukej, aby  
 se zas zvedla kupní síla!“_
 
+</section>
+
+<section>
+
 _Hoch byl dobře vybavený,  
 proto neváhal — byl rád.  
 Vrazil do ní část své měny,  
@@ -44,3 +62,5 @@ Chtěl už jít a ona: „Stát!“
 Pak mu dala, než bys řek,  
 vypít dvanáct vajíček,  
 pak ho teprv propustila._
+
+</section>

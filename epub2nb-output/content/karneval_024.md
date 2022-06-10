@@ -3,10 +3,16 @@ title: "Píseň mladých žen a\_starých manželů"
 contentType: prose
 ---
 
+<section>
+
 > _(Staří)_
 
 _Nechcete nám říct už hnedky,  
 co vás hnalo na záletky?_
+
+</section>
+
+<section>
 
 _Které ženské nestydaté  
 vás tak nectně pobláznily  
@@ -14,6 +20,10 @@ do zábav, že — teď to máte —
 čest jste v chvíli zahodily?  
 Hodil se vám jiný milý?  
 Spláčete nám nad výsledky!_
+
+</section>
+
+<section>
 
 > _(Ženy odpovídají)_
 
@@ -24,6 +34,10 @@ Chceme mít, co bychom chtěly.
 Nám dají ti mladí, skvělí,  
 víc než šatky nebo tretky._
 
+</section>
+
+<section>
+
 > _(Staří)_
 
 _Že vás huba nepálí!  
@@ -33,12 +47,20 @@ dostaly jste vrchovatě.
 Naše zdraví znáte. Dáte  
 nám jen svoje žvasty, pletky?_
 
+</section>
+
+<section>
+
 _Milencům se vyhýbejte,  
 vraťte se k nám do domova;  
 Před lidmi nám nedělejte  
 takovouhle hanbu znova!  
 V lásce vás pak budem chovat —  
 všecko k vašim službám hnedky!_
+
+</section>
+
+<section>
 
 > _(Ženy)_
 
@@ -49,12 +71,20 @@ než byste nás obdělali!
 Minulost nás dodnes pálí:  
 Umřít dřív než dostat zmetky!_
 
+</section>
+
+<section>
+
 _Hleďte uši napínat,  
 holčinečky na vdávání:  
 K sňatku s někým z těchhle dát  
 někdy souhlas? Ani zdání!  
 Utopte se bez váhání,  
 než byste si vzaly dědky!_
+
+</section>
+
+<section>
 
 > _(Staří)_
 
@@ -64,3 +94,5 @@ Nechtějí nás, chtějí svěží,
 mladé na své svrbení.  
 My jim máme zkropení  
 platit vždycky ty tři pětky!_
+
+</section>
