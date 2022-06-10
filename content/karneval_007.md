@@ -3,11 +3,17 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 V smíchu zpívám, tančím; zdám
 
 _se tak šťastný na pohled.  
 Ale — v duši pláč a led —  
 smutkem nevím kudykam._
+
+</section>
+
+<section>
 
 _Sloužil jsem tak dlouhý čas  
 jedinému veliteli;  
@@ -18,6 +24,10 @@ tělem, duší, nezavinil
 jsem, že milenec jsem nyní  
 z nejnešťastnějších, co znám._
 
+</section>
+
+<section>
+
 _Z ničeho však neviním  
 ji, své všecko. Zdroj mé zkázy  
 je můj osud: ten za vším  
@@ -26,3 +36,5 @@ Ten mě uvrh do nesnází.
 Ať si řádí jak chce stále —  
 slov se pustím, v srdci dále  
 diamanty uchovám._
+
+</section>

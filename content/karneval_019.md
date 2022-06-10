@@ -3,10 +3,16 @@ title: Bakchická píseň
 contentType: prose
 ---
 
+<section>
+
 _Jak je krásné zlaté mládí,  
 třebas prchá napořád!  
 Raduj se, kdo chceš být rád!  
 Nevíme, kam zítřek pádí._
+
+</section>
+
+<section>
 
 _Vidíš Bakcha s Ariadnou,  
 jeden na druhého žhavý;  
@@ -17,6 +23,10 @@ veselí se napořád!
 Raduj se, kdo chceš být rád!  
 Nevíme, kam zítřek pádí._
 
+</section>
+
+<section>
+
 _Satyři tu nevázaně  
 po nymfách teď třeští z lásky —  
 v jeskyňkách a v mlází na ně  
@@ -25,6 +35,10 @@ v žilách Bakchův žár a slasti
 rejdí, křepčí napořád.  
 Raduj se, kdo chceš být rád!  
 Nevíme, kam zítřek pádí._
+
+</section>
+
+<section>
 
 _Máš tu nymfy plné vděků,  
 šťastné, když jsou oklamány.  
@@ -35,6 +49,10 @@ zpěv a hra jsou napořád.
 Raduj se, kdo chceš být rád!  
 Nevíme, kam zítřek pádí._
 
+</section>
+
+<section>
+
 _Vida, vinná bečka živá:  
 Na oslu se Silén blíží!  
 Rozjásaný, zpitý zpívá,  
@@ -43,6 +61,10 @@ Třeba stát už může stíží,
 výská, vříská napořád.  
 Raduj se, kdo chceš být rád!  
 Nevíme, kam zítřek pádí._
+
+</section>
+
+<section>
 
 _Za nimi se Midas třpytí:  
 Na co sáhne, v zlato změní.  
@@ -53,6 +75,10 @@ Jaká slast a potěšení?
 Raduj se, kdo chceš být rád!  
 Nevíme, kam zítřek pádí._
 
+</section>
+
+<section>
+
 _Napni každý bystře uši,  
 vesele pusť zítřek z hlavy:  
 Mladý, starý — tělem, duší  
@@ -62,6 +88,10 @@ slavme svátek napořád!
 Raduj se, kdo chceš být rád!  
 Nevíme, kam zítřek pádí._
 
+</section>
+
+<section>
+
 _Milenci a krásné paní,  
 zdráv buď Bakchus a bůh Lásky!  
 Tanec, písně, milování!  
@@ -70,3 +100,5 @@ Hořte srdce, hořte slasti!
 Staň se to, co se má stát!  
 Raduj se, kdo chceš být rád!  
 Nevíme, kam zítřek pádí._
+
+</section>

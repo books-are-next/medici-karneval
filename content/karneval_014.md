@@ -3,11 +3,17 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 „Dobře jsi mi pověděla,
 
 _matičko má, co se sluší:  
 víc než já kdy, na mou duši,  
 sotvakterá štěstí měla._
+
+</section>
+
+<section>
 
 _Jeden mladík roztomilý  
 včera v plesu přišel ke mně,  
@@ -18,6 +24,10 @@ usmál se tak zvláštně, jemně,
 ‚K smrti, děvče, líbíš se mi.‘  
 Hned jsem celá zahořela._
 
+</section>
+
+<section>
+
 _Potom stisk mi rukou ruku,  
 potají mi přimáčk na ni,  
 šikovně, že kolem v shluku  
@@ -26,6 +36,10 @@ a já, jeho ruku v dlani,
 honem jsem ji zmačkla, stiskla,  
 aby zdálky ani zblízka  
 společnost nic neviděla._
+
+</section>
+
+<section>
 
 _Pak mi k noze zajel nohou,  
 až mi šlápnul na suknici,  
@@ -36,6 +50,10 @@ nejdřív jsem se nevtípila,
 pak jsem všecko pochopila —  
 a hned k tanci zas jak střela!_
 
+</section>
+
+<section>
+
 _Řek mi, že si vyříkáme,  
 co si srdce nejvíc žádá:  
 poslouchám a už je amen,  
@@ -44,6 +62,10 @@ rovnou na to říkám ráda:
 ‚Spravím všecko, co ti schází,  
 nevženu tě na kraj zkázy,  
 hotová jsem k všemu celá.‘_
+
+</section>
+
+<section>
 
 _On, že přijde dneska v noci  
 na místečko hezky skryté;  
@@ -54,6 +76,10 @@ vkrad se na síň, kde mám lože…
 Říc ti o té kráse — bože! —  
 vím, že bys mi záviděla._
 
+</section>
+
+<section>
+
 _Tak jsme tolik přáli si tam,  
 až měl dost a usnul sladce.  
 Jsem jak ve snách, když to říkám:  
@@ -63,6 +89,10 @@ děkuji ti, zlatá, milá,
 pěkně jsi mě pocvičila,  
 ta tvá rada byla skvělá!“_
 
+</section>
+
+<section>
+
 _Poučte se, ženy, tady,  
 věděla, jak chovat se má:  
 vždyť, když zvážím všecko všady,  
@@ -71,3 +101,5 @@ Odklad leckdy vymstí se nám,
 darmo zjeví věci skryté:  
 příležitost využijte  
 včas a dřív, než uletěla!_
+
+</section>

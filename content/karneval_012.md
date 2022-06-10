@@ -3,11 +3,17 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Natvrdo si porozpráví
 
 _manžel s ženou: „Jestli, víš,  
 tvář a chutě nezměníš,  
 já zas nezměním své mravy.“_
+
+</section>
+
+<section>
 
 _Moc si naříkala paní:  
 „Vystát už to nemohu —  
@@ -18,6 +24,10 @@ jak jsem zvyk a jak to znám,
 chci a jinak nedělám,  
 dokud nemám lepší zprávy.“_
 
+</section>
+
+<section>
+
 _„V způsobech ses zkrátka zvrh;  
 špatně ses to vychoval.  
 Není dobrý žádný trh,  
@@ -26,6 +36,10 @@ Manžel k tomu říká dál:
 „Tím sis vinna jen ty sama.  
 Lepší tvář mít! Mezi náma —  
 copak mě ten podvod baví?“_
+
+</section>
+
+<section>
 
 _Posteskla si rodičům;  
 dřív měl stesku on až běda.  
@@ -36,6 +50,10 @@ Nedočkám se chvilky klidu.
 Rozkoš! Vidíš, nač si přijdu.  
 Člověk slzy nezastaví!“_
 
+</section>
+
+<section>
+
 _„Snášenlivá,“ řek, „máš být  
 k muži. Uč se strpení!  
 A můj způsob? Chci mít klid,  
@@ -44,3 +62,5 @@ Budeš chtít mé mazlení,
 jestli vychutnáš mé hraní.  
 Řekneš, co já, bez váhání:  
 Tenhle způsob je ten pravý!“_
+
+</section>
