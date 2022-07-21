@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "medicejsky-karneval-3183783",
-  "revision": "3183783",
+  "identifier": "medicejsky-karneval-b2f78c6",
+  "revision": "b2f78c6",
   "readingOrder": [
     "promo.html",
     "karneval_005.html",
@@ -34,12 +34,11 @@
     "karneval_024.html",
     "karneval_025.html",
     "karneval_026.html",
-    "karneval_027.html",
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 07:58:24 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658390304758
+    "date": "Thu Jul 21 2022 08:05:37 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658390737487
   },
   "documents": [
     {
@@ -483,7 +482,7 @@
       "role": "chapter",
       "order": 22,
       "prev": "karneval_025.html",
-      "next": "karneval_027.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -495,34 +494,14 @@
       ]
     },
     {
-      "title": "Karneval",
-      "file": "karneval_027.html",
-      "words": 53,
-      "chars": 366,
-      "ideas": 14,
-      "role": "chapter",
-      "order": 23,
-      "prev": "karneval_026.html",
-      "next": "about.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 98,
-      "chars": 679,
-      "ideas": 8,
+      "words": 138,
+      "chars": 910,
+      "ideas": 18,
       "role": "about",
       "order": null,
-      "prev": "karneval_027.html",
+      "prev": "karneval_026.html",
       "next": null,
       "toc": [
         {
@@ -537,14 +516,14 @@
   ],
   "totals": {
     "all": {
-      "words": 4832,
-      "chars": 27219,
-      "ideas": 796
+      "words": 4819,
+      "chars": 27084,
+      "ideas": 792
     },
     "chapters": {
-      "words": 4729,
-      "chars": 26505,
-      "ideas": 784
+      "words": 4676,
+      "chars": 26139,
+      "ideas": 770
     }
   }
 }
