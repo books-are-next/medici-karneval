@@ -8,60 +8,60 @@ contentType: poetry
 
 _Paní milá chtivá byla_
 
-_mluvit s mladíkem — a ved  
+mluvit s mladíkem — a ved  
 si tak pěkně, že mu hned  
-ty tři pětky vysolila._
+ty tři pětky vysolila.
 
 </section>
 
 <section>
 
-_Na truhle jí prvně zkrátka  
+Na truhle jí prvně zkrátka  
 svoje účty zúčtoval,  
 ale pak se strhla hádka.  
 Ona na něj rovnou dál:  
 „Díl sis ode mne už vzal  
 a cos zatím dělal? Nic!  
 Vyplať další podíl, sic  
-nesmíš odtud, hochu milá!“_
+nesmíš odtud, hochu milá!“
 
 </section>
 
 <section>
 
-_Lakotná je každá žena;  
+Lakotná je každá žena;  
 pořád jí to nestačilo.  
 „Nejsem ještě vyplacená  
 do puntíku,“ dělá dílo,  
 než, co z pohledávky zbylo,  
 jí dal honem do kasičky.  
 Čiperná jak ryba ničky  
-už ho málem propustila…_
+už ho málem propustila…
 
 </section>
 
 <section>
 
-_Vzpomněla si nečekaně  
+Vzpomněla si nečekaně  
 na úrok, než hoch byl venku.  
 Najisto jde, pustí z dlaně  
 mladíkovu peněženku:  
 „Boží rány! Za chvilenku  
 nemáš vindru, jsi tak chabý?“  
 povídá. „Teď koukej, aby  
-se zas zvedla kupní síla!“_
+se zas zvedla kupní síla!“
 
 </section>
 
 <section>
 
-_Hoch byl dobře vybavený,  
+Hoch byl dobře vybavený,  
 proto neváhal — byl rád.  
 Vrazil do ní část své měny,  
 vyplatil ji akorát.  
 Chtěl už jít a ona: „Stát!“  
 Pak mu dala, než bys řek,  
 vypít dvanáct vajíček,  
-pak ho teprv propustila._
+pak ho teprv propustila.
 
 </section>

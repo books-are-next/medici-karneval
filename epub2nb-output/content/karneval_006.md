@@ -8,26 +8,26 @@ contentType: poetry
 
 _Jen prázdná duše neuvěří, paní,_
 
-_že na ni nikdy neuhodí stáří  
+že na ni nikdy neuhodí stáří  
 a že jí v svěží tváři  
-čas pevné rysy mládí nezahladí._
+čas pevné rysy mládí nezahladí.
 
 </section>
 
 <section>
 
-_Věk letí, utíká,  
+Věk letí, utíká,  
 květ života nám zvadne — je to chvíle.  
 Ať pomyslí si srdce ušlechtilé:  
-Čas všecko odnáší; vše zaniká._
+Čas všecko odnáší; vše zaniká.
 
 </section>
 
 <section>
 
-_Tak mějte, vzácná paní, slitování  
+Tak mějte, vzácná paní, slitování  
 a nebuďte pyšná na svoji krásu;  
 Jen hloupá doufá, v času  
-že bude věčně žít krásná a v mládí._
+že bude věčně žít krásná a v mládí.
 
 </section>

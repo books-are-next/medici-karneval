@@ -81,7 +81,7 @@ tocBase:
           - link: karneval_017.html
             title: Sedm radostí lásky
             hiddenTitle: false
-        listType: bulleted
+        listType: plain
       - link: karneval_018.html
         title: KARNEVALOVÉ ZPĚVY
         hiddenTitle: false
@@ -107,7 +107,7 @@ tocBase:
           - link: karneval_025.html
             title: Píseň poustevníků
             hiddenTitle: false
-        listType: bulleted
+        listType: plain
       - link: karneval_026.html
         title: VELKOLEPÝ VAVŘINEC aneb LORENZO IL MAGNIFICO
         hiddenTitle: false

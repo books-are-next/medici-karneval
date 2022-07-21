@@ -5,63 +5,63 @@ contentType: poetry
 
 <section>
 
-_Nás sedm planet přerušilo let  
-a o nebi jde zemi povědět._
+Nás sedm planet přerušilo let  
+a o nebi jde zemi povědět.
 
 </section>
 
 <section>
 
-_Kdekterá slast i strast se námi řídí,  
+Kdekterá slast i strast se námi řídí,  
 co blaží vás — co trápí, ubožáci,  
 a všecko, s čím se setkají kdy lidi,  
 stromy a skály, ryby, zvěř a ptáci:  
 Kdo se chce měřit s námi, v zkoušce ztrácí.  
-Pro toho, kdo nám věří, jsme jak med._
+Pro toho, kdo nám věří, jsme jak med.
 
 </section>
 
 <section>
 
-_Na těle, na duchu chabí či zdatní  
+Na těle, na duchu chabí či zdatní  
 jměním i z poct, preláti, hodnostáři,  
 neklidní, bystří, moudří, zpupní, statní  
 virtuosové, vládci v plné záři,  
 úskoční řečníci i lumpi, lháři:  
-i každou podlost z nás si každý sčet._
+i každou podlost z nás si každý sčet.
 
 </section>
 
 <section>
 
-_Venuše — krásná, jasná — rozžíhává  
+Venuše — krásná, jasná — rozžíhává  
 v srdci cit lásky, vznešenosti, krásy.  
 Kdo se dotk ohně, který hvězda dává,  
 žár z krásy jiných v sobě neuhasí.  
 Každý tvor chce tu sladkost, k té se hlásí  
-a tou se stále obnovuje svět._
+a tou se stále obnovuje svět.
 
 </section>
 
 <section>
 
-_Za dobrou šťastnou hvězdou  
+Za dobrou šťastnou hvězdou  
 běžte vpřed,  
 líbezné ženy, krásní chlapci zlatí!  
 Bohyně z Kypru zve vás utrácet  
 radostně svoje dny, které se tratí,  
 a nečekat, že sladký čas se vrátí:  
-Když jednou utek, nejde nikdy zpět._
+Když jednou utek, nejde nikdy zpět.
 
 </section>
 
 <section>
 
-_Sladký čas zve teď ještě kdekoho:  
+Sladký čas zve teď ještě kdekoho:  
 Nech marnou bolest, smutné myšlenky!  
 A dokud život trvá — nemnoho —  
 měj radost rád a měj rád milenky.  
 Když umíš, uspokoj se z chvilenky!  
-Když ne — poklady nechtěj, zle ses splet._
+Když ne — poklady nechtěj, zle ses splet.
 
 </section>
