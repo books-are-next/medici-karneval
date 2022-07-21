@@ -1,6 +1,6 @@
 ---
 title: "Píseň o\_cikádách"
-contentType: prose
+contentType: poetry
 ---
 
 <section>

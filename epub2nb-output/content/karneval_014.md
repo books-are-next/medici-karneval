@@ -1,11 +1,12 @@
 ---
 title: ''
-contentType: prose
+hiddenTitle: true
+contentType: poetry
 ---
 
 <section>
 
-„Dobře jsi mi pověděla,
+_„Dobře jsi mi pověděla,_
 
 _matičko má, co se sluší:  
 víc než já kdy, na mou duši,  

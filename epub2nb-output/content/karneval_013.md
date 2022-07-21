@@ -1,11 +1,12 @@
 ---
 title: ''
-contentType: prose
+hiddenTitle: true
+contentType: poetry
 ---
 
 <section>
 
-„Dostalas, má dcerko mladá,
+_„Dostalas, má dcerko mladá,_
 
 _vychování víc než dosti.  
 Chovej se mi v společnosti,  

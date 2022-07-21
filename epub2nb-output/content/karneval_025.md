@@ -1,6 +1,6 @@
 ---
 title: Píseň poustevníků
-contentType: prose
+contentType: poetry
 ---
 
 <section>

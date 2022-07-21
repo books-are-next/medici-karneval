@@ -1,6 +1,6 @@
 ---
 title: Bakchická píseň
-contentType: prose
+contentType: poetry
 ---
 
 <section>

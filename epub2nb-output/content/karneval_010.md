@@ -1,11 +1,12 @@
 ---
 title: ''
-contentType: prose
+hiddenTitle: true
+contentType: poetry
 ---
 
 <section>
 
-Čas je, abych pravdu řek,
+_Čas je, abych pravdu řek,_
 
 _moje paní. I když spíš  
 je to bláznovství, ať víš  

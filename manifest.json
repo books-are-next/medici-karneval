@@ -1,0 +1,550 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Karneval",
+  "author": "Lorenzo Medicejský",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "poezie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "medicejsky-karneval-3183783",
+  "revision": "3183783",
+  "readingOrder": [
+    "promo.html",
+    "karneval_005.html",
+    "karneval_006.html",
+    "karneval_007.html",
+    "karneval_008.html",
+    "karneval_009.html",
+    "karneval_010.html",
+    "karneval_011.html",
+    "karneval_012.html",
+    "karneval_013.html",
+    "karneval_014.html",
+    "karneval_015.html",
+    "karneval_016.html",
+    "karneval_017.html",
+    "karneval_018.html",
+    "karneval_019.html",
+    "karneval_020.html",
+    "karneval_021.html",
+    "karneval_022.html",
+    "karneval_023.html",
+    "karneval_024.html",
+    "karneval_025.html",
+    "karneval_026.html",
+    "karneval_027.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Thu Jul 21 2022 07:58:24 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658390304758
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "karneval_005.html",
+      "toc": []
+    },
+    {
+      "title": "TANEČNÍ PÍSNĚ",
+      "file": "karneval_005.html",
+      "words": 2,
+      "chars": 13,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "karneval_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "TANEČNÍ PÍSNĚ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Karneval",
+      "file": "karneval_006.html",
+      "words": 67,
+      "chars": 349,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 2,
+      "prev": "karneval_005.html",
+      "next": "karneval_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Karneval",
+      "file": "karneval_007.html",
+      "words": 100,
+      "chars": 497,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 3,
+      "prev": "karneval_006.html",
+      "next": "karneval_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Karneval",
+      "file": "karneval_008.html",
+      "words": 172,
+      "chars": 874,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 4,
+      "prev": "karneval_007.html",
+      "next": "karneval_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Karneval",
+      "file": "karneval_009.html",
+      "words": 140,
+      "chars": 782,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 5,
+      "prev": "karneval_008.html",
+      "next": "karneval_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Karneval",
+      "file": "karneval_010.html",
+      "words": 178,
+      "chars": 899,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 6,
+      "prev": "karneval_009.html",
+      "next": "karneval_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Karneval",
+      "file": "karneval_011.html",
+      "words": 161,
+      "chars": 856,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 7,
+      "prev": "karneval_010.html",
+      "next": "karneval_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Karneval",
+      "file": "karneval_012.html",
+      "words": 166,
+      "chars": 889,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 8,
+      "prev": "karneval_011.html",
+      "next": "karneval_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Karneval",
+      "file": "karneval_013.html",
+      "words": 183,
+      "chars": 916,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 9,
+      "prev": "karneval_012.html",
+      "next": "karneval_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Karneval",
+      "file": "karneval_014.html",
+      "words": 300,
+      "chars": 1530,
+      "ideas": 60,
+      "role": "chapter",
+      "order": 10,
+      "prev": "karneval_013.html",
+      "next": "karneval_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Karneval",
+      "file": "karneval_015.html",
+      "words": 250,
+      "chars": 1282,
+      "ideas": 52,
+      "role": "chapter",
+      "order": 11,
+      "prev": "karneval_014.html",
+      "next": "karneval_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Karneval",
+      "file": "karneval_016.html",
+      "words": 227,
+      "chars": 1145,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 12,
+      "prev": "karneval_015.html",
+      "next": "karneval_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sedm radostí lásky",
+      "file": "karneval_017.html",
+      "words": 480,
+      "chars": 2576,
+      "ideas": 83,
+      "role": "chapter",
+      "order": 13,
+      "prev": "karneval_016.html",
+      "next": "karneval_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sedm radostí lásky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KARNEVALOVÉ ZPĚVY",
+      "file": "karneval_018.html",
+      "words": 2,
+      "chars": 17,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 14,
+      "prev": "karneval_017.html",
+      "next": "karneval_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KARNEVALOVÉ ZPĚVY",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bakchická píseň",
+      "file": "karneval_019.html",
+      "words": 281,
+      "chars": 1510,
+      "ideas": 61,
+      "role": "chapter",
+      "order": 15,
+      "prev": "karneval_018.html",
+      "next": "karneval_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Bakchická píseň",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Píseň o voňavkách",
+      "file": "karneval_020.html",
+      "words": 234,
+      "chars": 1248,
+      "ideas": 53,
+      "role": "chapter",
+      "order": 16,
+      "prev": "karneval_019.html",
+      "next": "karneval_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Píseň o voňavkách",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Píseň sedmi planet",
+      "file": "karneval_021.html",
+      "words": 212,
+      "chars": 1130,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 17,
+      "prev": "karneval_020.html",
+      "next": "karneval_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Píseň sedmi planet",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Píseň o cikádách",
+      "file": "karneval_022.html",
+      "words": 151,
+      "chars": 834,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 18,
+      "prev": "karneval_021.html",
+      "next": "karneval_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Píseň o cikádách",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Píseň o pohledech nazpátek",
+      "file": "karneval_023.html",
+      "words": 169,
+      "chars": 863,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 19,
+      "prev": "karneval_022.html",
+      "next": "karneval_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Píseň o pohledech nazpátek",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Píseň mladých žen a starých manželů",
+      "file": "karneval_024.html",
+      "words": 214,
+      "chars": 1178,
+      "ideas": 50,
+      "role": "chapter",
+      "order": 20,
+      "prev": "karneval_023.html",
+      "next": "karneval_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Píseň mladých žen a starých manželů",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Píseň poustevníků",
+      "file": "karneval_025.html",
+      "words": 144,
+      "chars": 833,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 21,
+      "prev": "karneval_024.html",
+      "next": "karneval_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Píseň poustevníků",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VELKOLEPÝ VAVŘINEC aneb LORENZO IL MAGNIFICO",
+      "file": "karneval_026.html",
+      "words": 843,
+      "chars": 5918,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 22,
+      "prev": "karneval_025.html",
+      "next": "karneval_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VELKOLEPÝ VAVŘINEC aneb LORENZO IL MAGNIFICO",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Karneval",
+      "file": "karneval_027.html",
+      "words": 53,
+      "chars": 366,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 23,
+      "prev": "karneval_026.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 98,
+      "chars": 679,
+      "ideas": 8,
+      "role": "about",
+      "order": null,
+      "prev": "karneval_027.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 4832,
+      "chars": 27219,
+      "ideas": 796
+    },
+    "chapters": {
+      "words": 4729,
+      "chars": 26505,
+      "ideas": 784
+    }
+  }
+}

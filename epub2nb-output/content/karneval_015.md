@@ -1,11 +1,12 @@
 ---
 title: ''
-contentType: prose
+hiddenTitle: true
+contentType: poetry
 ---
 
 <section>
 
-Neznám hezčí kratochvíli,
+_Neznám hezčí kratochvíli,_
 
 _do které by se víc chtělo,  
 než když dva jsou jedno tělo —  

@@ -1,11 +1,12 @@
 ---
 title: ''
-contentType: prose
+hiddenTitle: true
+contentType: poetry
 ---
 
 <section>
 
-Byl by to vrch rajských radostí
+_Byl by to vrch rajských radostí_
 
 _cítit lásku bez žárlivosti!_
 
