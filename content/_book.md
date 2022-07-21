@@ -37,7 +37,6 @@ readingOrder:
   - karneval_024.html
   - karneval_025.html
   - karneval_026.html
-  - karneval_027.html
   - about.html
 tocBase:
   - id: section-1
@@ -45,66 +44,70 @@ tocBase:
       - link: karneval_005.html
         title: TANEČNÍ PÍSNĚ
         hiddenTitle: false
-      - link: karneval_006.html
-        title: Jen prázdná duše neuvěří, paní ...
-        hiddenTitle: true
-      - link: karneval_007.html
-        title: V smíchu zpívám, tančím ...
-        hiddenTitle: true
-      - link: karneval_008.html
-        title: Čekáš svůj čas a čas ti uniká ...
-        hiddenTitle: true
-      - link: karneval_009.html
-        title: Byl by to vrch rajských radostí ...
-        hiddenTitle: true
-      - link: karneval_010.html
-        title: Čas je, abych pravdu řek ...
-        hiddenTitle: true
-      - link: karneval_011.html
-        title: Paní milá chtivá byla ...
-        hiddenTitle: true
-      - link: karneval_012.html
-        title: Natvrdo si porozpráví ...
-        hiddenTitle: true
-      - link: karneval_013.html
-        title: Dostalas, má dcerko mladá ...
-        hiddenTitle: true
-      - link: karneval_014.html
-        title: Dobře jsi mi pověděla ...
-        hiddenTitle: true
-      - link: karneval_015.html
-        title: Neznám hezčí kratochvíli ...
-        hiddenTitle: true
-      - link: karneval_016.html
-        title: Panny a paní, lituji svých vin ...
-        hiddenTitle: true
-      - link: karneval_017.html
-        title: Sedm radostí lásky
-        hiddenTitle: false
+        children:
+          - link: karneval_006.html
+            title: Jen prázdná duše neuvěří, paní ...
+            hiddenTitle: true
+          - link: karneval_007.html
+            title: V smíchu zpívám, tančím ...
+            hiddenTitle: true
+          - link: karneval_008.html
+            title: Čekáš svůj čas a čas ti uniká ...
+            hiddenTitle: true
+          - link: karneval_009.html
+            title: Byl by to vrch rajských radostí ...
+            hiddenTitle: true
+          - link: karneval_010.html
+            title: Čas je, abych pravdu řek ...
+            hiddenTitle: true
+          - link: karneval_011.html
+            title: Paní milá chtivá byla ...
+            hiddenTitle: true
+          - link: karneval_012.html
+            title: Natvrdo si porozpráví ...
+            hiddenTitle: true
+          - link: karneval_013.html
+            title: Dostalas, má dcerko mladá ...
+            hiddenTitle: true
+          - link: karneval_014.html
+            title: Dobře jsi mi pověděla ...
+            hiddenTitle: true
+          - link: karneval_015.html
+            title: Neznám hezčí kratochvíli ...
+            hiddenTitle: true
+          - link: karneval_016.html
+            title: Panny a paní, lituji svých vin ...
+            hiddenTitle: true
+          - link: karneval_017.html
+            title: Sedm radostí lásky
+            hiddenTitle: false
+        listType: bulleted
       - link: karneval_018.html
         title: KARNEVALOVÉ ZPĚVY
         hiddenTitle: false
-      - link: karneval_019.html
-        title: Bakchická píseň
-        hiddenTitle: false
-      - link: karneval_020.html
-        title: "Píseň o\_voňavkách"
-        hiddenTitle: false
-      - link: karneval_021.html
-        title: Píseň sedmi planet
-        hiddenTitle: false
-      - link: karneval_022.html
-        title: "Píseň o\_cikádách"
-        hiddenTitle: false
-      - link: karneval_023.html
-        title: "Píseň o\_pohledech nazpátek"
-        hiddenTitle: false
-      - link: karneval_024.html
-        title: "Píseň mladých žen a\_starých manželů"
-        hiddenTitle: false
-      - link: karneval_025.html
-        title: Píseň poustevníků
-        hiddenTitle: false
+        children:
+          - link: karneval_019.html
+            title: Bakchická píseň
+            hiddenTitle: false
+          - link: karneval_020.html
+            title: Píseň o voňavkách
+            hiddenTitle: false
+          - link: karneval_021.html
+            title: Píseň sedmi planet
+            hiddenTitle: false
+          - link: karneval_022.html
+            title: Píseň o cikádách
+            hiddenTitle: false
+          - link: karneval_023.html
+            title: Píseň o pohledech nazpátek
+            hiddenTitle: false
+          - link: karneval_024.html
+            title: Píseň mladých žen a starých manželů
+            hiddenTitle: false
+          - link: karneval_025.html
+            title: Píseň poustevníků
+            hiddenTitle: false
+        listType: bulleted
       - link: karneval_026.html
         title: VELKOLEPÝ VAVŘINEC aneb LORENZO IL MAGNIFICO
         hiddenTitle: false
