@@ -1,6 +1,6 @@
 ---
 title: KARNEVALOVÉ ZPĚVY
-contentType: prose
+contentType: poetry
 ---
 
 

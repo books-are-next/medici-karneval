@@ -1,11 +1,12 @@
 ---
 title: ''
-contentType: prose
+hiddenTitle: true
+contentType: poetry
 ---
 
 <section>
 
-Jen prázdná duše neuvěří, paní,
+_Jen prázdná duše neuvěří, paní,_
 
 _že na ni nikdy neuhodí stáří  
 a že jí v svěží tváři  

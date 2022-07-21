@@ -1,11 +1,12 @@
 ---
 title: ''
-contentType: prose
+hiddenTitle: true
+contentType: poetry
 ---
 
 <section>
 
-Čekáš svůj čas a čas ti uniká:
+_Čekáš svůj čas a čas ti uniká:_
 
 _Čas nevyčkává, ale utíká._
 

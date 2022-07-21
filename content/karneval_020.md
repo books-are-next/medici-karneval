@@ -1,6 +1,6 @@
 ---
 title: "Píseň o\_voňavkách"
-contentType: prose
+contentType: poetry
 ---
 
 <section>

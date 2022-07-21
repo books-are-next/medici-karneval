@@ -1,6 +1,6 @@
 ---
 title: VELKOLEPÝ VAVŘINEC aneb LORENZO IL MAGNIFICO
-contentType: prose
+contentType: poetry
 ---
 
 <section>

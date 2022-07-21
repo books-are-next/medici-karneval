@@ -1,6 +1,6 @@
 ---
 title: Píseň sedmi planet
-contentType: prose
+contentType: poetry
 ---
 
 <section>

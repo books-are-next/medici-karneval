@@ -1,11 +1,12 @@
 ---
 title: ''
-contentType: prose
+hiddenTitle: true
+contentType: poetry
 ---
 
 <section>
 
-V smíchu zpívám, tančím; zdám
+_V smíchu zpívám, tančím; zdám_
 
 _se tak šťastný na pohled.  
 Ale — v duši pláč a led —  

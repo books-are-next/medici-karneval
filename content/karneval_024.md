@@ -1,6 +1,6 @@
 ---
 title: "Píseň mladých žen a\_starých manželů"
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Sedm radostí lásky
-contentType: prose
+contentType: poetry
 ---
 
 <section>

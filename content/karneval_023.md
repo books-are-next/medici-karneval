@@ -1,6 +1,6 @@
 ---
 title: "Píseň o\_pohledech nazpátek"
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,11 +1,12 @@
 ---
 title: ''
-contentType: prose
+hiddenTitle: true
+contentType: poetry
 ---
 
 <section>
 
-Panny a paní, lituji svých vin
+_Panny a paní, lituji svých vin_
 
 _a hotovím se smýt je pokáním._
 

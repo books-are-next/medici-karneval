@@ -1,11 +1,12 @@
 ---
 title: ''
-contentType: prose
+hiddenTitle: true
+contentType: poetry
 ---
 
 <section>
 
-Natvrdo si porozpráví
+_Natvrdo si porozpráví_
 
 _manžel s ženou: „Jestli, víš,  
 tvář a chutě nezměníš,  

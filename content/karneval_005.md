@@ -1,6 +1,6 @@
 ---
 title: TANEČNÍ PÍSNĚ
-contentType: prose
+contentType: poetry
 ---
 
 

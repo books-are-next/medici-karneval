@@ -1,11 +1,12 @@
 ---
 title: ''
-contentType: prose
+hiddenTitle: true
+contentType: poetry
 ---
 
 <section>
 
-Paní milá chtivá byla
+_Paní milá chtivá byla_
 
 _mluvit s mladíkem — a ved  
 si tak pěkně, že mu hned  
