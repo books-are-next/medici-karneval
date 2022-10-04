@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "medicejsky-karneval-dfd2779",
-  "revision": "dfd2779",
+  "identifier": "medicejsky-karneval-aff64dd",
+  "revision": "aff64dd",
   "readingOrder": [
     "promo.html",
     "karneval_005.html",
@@ -37,8 +37,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 15:59:37 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664639977931
+    "date": "Tue Oct 04 2022 16:47:15 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664902035549
   },
   "documents": [
     {
@@ -496,9 +496,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 138,
+      "words": 136,
       "chars": 910,
-      "ideas": 18,
+      "ideas": 16,
       "role": "about",
       "order": null,
       "prev": "karneval_026.html",
@@ -516,9 +516,9 @@
   ],
   "totals": {
     "all": {
-      "words": 4819,
+      "words": 4817,
       "chars": 27084,
-      "ideas": 792
+      "ideas": 790
     },
     "chapters": {
       "words": 4676,
