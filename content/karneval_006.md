@@ -6,8 +6,7 @@ contentType: poetry
 
 <section>
 
-_Jen prázdná duše neuvěří, paní,_
-
+Jen prázdná duše neuvěří, paní,\
 že na ni nikdy neuhodí stáří  
 a že jí v svěží tváři  
 čas pevné rysy mládí nezahladí.
