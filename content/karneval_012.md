@@ -6,8 +6,7 @@ contentType: poetry
 
 <section>
 
-_Natvrdo si porozpráví_
-
+Natvrdo si porozpráví\
 manžel s ženou: „Jestli, víš,  
 tvář a chutě nezměníš,  
 já zas nezměním své mravy.“

@@ -6,8 +6,7 @@ contentType: poetry
 
 <section>
 
-_„Dostalas, má dcerko mladá,_
-
+„Dostalas, má dcerko mladá,\
 vychování víc než dosti.  
 Chovej se mi v společnosti,  
 jak se sluší, patří, žádá!

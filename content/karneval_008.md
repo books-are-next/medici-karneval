@@ -6,8 +6,7 @@ contentType: poetry
 
 <section>
 
-_Čekáš svůj čas a čas ti uniká:_
-
+Čekáš svůj čas a čas ti uniká\:\
 Čas nevyčkává, ale utíká.
 
 </section>

@@ -6,8 +6,7 @@ contentType: poetry
 
 <section>
 
-_Čas je, abych pravdu řek,_
-
+Čas je, abych pravdu řek,\
 moje paní. I když spíš  
 je to bláznovství, ať víš  
 něco teď z mých myšlenek.

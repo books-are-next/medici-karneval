@@ -6,8 +6,7 @@ contentType: poetry
 
 <section>
 
-_Panny a paní, lituji svých vin_
-
+Panny a paní, lituji svých vin\
 a hotovím se smýt je pokáním.
 
 </section>

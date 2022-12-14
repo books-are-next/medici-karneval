@@ -6,8 +6,7 @@ contentType: poetry
 
 <section>
 
-_V smíchu zpívám, tančím; zdám_
-
+V smíchu zpívám, tančím; zdám\
 se tak šťastný na pohled.  
 Ale — v duši pláč a led —  
 smutkem nevím kudykam.

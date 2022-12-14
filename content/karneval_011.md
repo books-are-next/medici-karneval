@@ -6,8 +6,7 @@ contentType: poetry
 
 <section>
 
-_Paní milá chtivá byla_
-
+Paní milá chtivá byla\
 mluvit s mladíkem — a ved  
 si tak pěkně, že mu hned  
 ty tři pětky vysolila.

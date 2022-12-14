@@ -6,8 +6,7 @@ contentType: poetry
 
 <section>
 
-_Byl by to vrch rajských radostí_
-
+Byl by to vrch rajských radostí\
 cítit lásku bez žárlivosti!
 
 </section>

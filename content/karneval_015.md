@@ -6,8 +6,7 @@ contentType: poetry
 
 <section>
 
-_Neznám hezčí kratochvíli,_
-
+Neznám hezčí kratochvíli,\
 do které by se víc chtělo,  
 než když dva jsou jedno tělo —  
 kdo to neznáš, zkus to chvíli!

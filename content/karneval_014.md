@@ -6,8 +6,7 @@ contentType: poetry
 
 <section>
 
-_„Dobře jsi mi pověděla,_
-
+„Dobře jsi mi pověděla,\
 matičko má, co se sluší:  
 víc než já kdy, na mou duši,  
 sotvakterá štěstí měla.
